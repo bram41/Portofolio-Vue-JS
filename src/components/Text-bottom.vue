@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center mt-5">
+  <div class="text-center mt-5 fixed-bottom">
     <p>
       <font-awesome-icon icon="fa-solid fa-code" /> with
       <font-awesome-icon icon="fa-solid fa-heart" /> by Surya Saputra
