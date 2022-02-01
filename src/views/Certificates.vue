@@ -1,5 +1,5 @@
 <template>
-  <div>this is certificates</div>
+  <div></div>
 </template>
 
 <script>
