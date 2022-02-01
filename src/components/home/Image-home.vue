@@ -3,7 +3,6 @@
     <b-img
       class="mt-5"
       width="300px"
-      v-bind="mainProps"
       src="../../assets/me.jpeg"
       rounded="circle"
       alt="Circle image"

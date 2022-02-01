@@ -1,5 +1,6 @@
 <template>
-  <div class="text-center mt-5 fixed-bottom">
+  <!-- <div class="d-flex flex-column mt-5"> -->
+  <footer class="fixed-bottom text-center">
     <p>
       <font-awesome-icon icon="fa-solid fa-code" /> with
       <font-awesome-icon icon="fa-solid fa-heart" /> by Surya Saputra
@@ -20,11 +21,12 @@
         ><font-awesome-icon icon="fa-brands fa-linkedin"
       /></a>
     </p>
-  </div>
+  </footer>
+  <!-- </div> -->
 </template>
 
 <script>
 export default {};
 </script>
 
-<style></style>
+<style scoped></style>
