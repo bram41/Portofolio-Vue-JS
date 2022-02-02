@@ -1,7 +1,11 @@
 <template>
   <div>
-    <image-home></image-home>
-    <text-home></text-home>
+    <b-container>
+      <b-col class="text-center">
+        <image-home></image-home>
+        <text-home></text-home>
+      </b-col>
+    </b-container>
     <text-bottom></text-bottom>
   </div>
 </template>

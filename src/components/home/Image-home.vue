@@ -1,11 +1,11 @@
 <template>
   <div class="home">
     <b-img
-      class="mt-5"
-      width="300px"
+      class="mt-5 img-fluid"
       src="../../assets/me.jpeg"
       rounded="circle"
       alt="Circle image"
+      width="300px"
     ></b-img>
   </div>
 </template>
@@ -14,8 +14,4 @@
 export default {};
 </script>
 
-<style>
-.home {
-  text-align: center;
-}
-</style>
+<style></style>
